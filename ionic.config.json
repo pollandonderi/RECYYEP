@@ -1,0 +1,8 @@
+{
+  
+  "name": "RECYYEP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
